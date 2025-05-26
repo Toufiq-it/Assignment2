@@ -1,3 +1,4 @@
+
 -- Table 1: Rangers
 CREATE TABLE rangers (
     ranger_id SERIAL PRIMARY KEY,
